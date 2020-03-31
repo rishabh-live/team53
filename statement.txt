@@ -1,0 +1,17 @@
+Problem Statement
+
+
+
+“The Student Abode” is a global standard student accommodation company with properties across India. The company currently on-boards students in their hostels using a physical interaction process between the company representatives and the students. 
+
+
+The process starts with the students visiting the property and selecting a room of their liking. After a room is selected, the students have to submit physical identification documents which are verified and copies stored for the records. The students need to fill up physical forms along with consent from parents. Once these formalities are completed, the students are then allocated rooms on the basis of availability. Once the room is confirmed, they need to make an advance payment to block the room. Post the advance payment, the students need to make the complete payment within 15 days to ensure the blocking otherwise the room is released back to the inventory.
+
+
+The company is growing very rapidly and to handle high student volumes, it would like to automate the entire on-boarding process with zero or minimal human intervention.
+
+
+Your challenge is to design a 100% digital and automated solution for the company. You need to submit user journey screen mock-ups and show the process flow using a flowchart drawing tool like draw.io. 
+
+
+These solutions/diagrams will be judged on the basis of the variety and practicality of the use cases and personas. You need not submit any code for this challenge.
