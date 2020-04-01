@@ -30,7 +30,7 @@ if (isset($_GET["city"])) {
 
 <div>
   <label>Choose Password: </label>
-  <input type="text" name="username" autofocus="true" required="true">
+  <input type="password" name="username" autofocus="true" required="true">
 </div>
 <input type="hidden" name="session_id" value="<?php echo $session_id; ?>">
 <input type="hidden" name="city" value="<?php echo $city; ?>">
@@ -38,7 +38,7 @@ if (isset($_GET["city"])) {
 </form>
 
 <div>
-  <a href="step-zero-login.php?city=<?php echo $city; ?>">Have an account?</a>
+  <a href="step-zero-login.php?city=<?php echo $city; ?>">Have an account.</a>
 
 </div>
 <?php
