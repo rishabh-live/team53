@@ -24,6 +24,11 @@ if (isset($_GET["city"])) {
 </div>
 
 <div>
+  <label>Enter Email: </label>
+  <input type="email" name="email" autofocus="true" required="true">
+</div>
+
+<div>
   <label>Choose Password: </label>
   <input type="text" name="username" autofocus="true" required="true">
 </div>
@@ -31,6 +36,11 @@ if (isset($_GET["city"])) {
 <input type="hidden" name="city" value="<?php echo $city; ?>">
 
 </form>
+
+<div>
+  <a href="step-zero-login.php?city=<?php echo $city; ?>">Have an account?</a>
+
+</div>
 <?php
 }
 ?>
